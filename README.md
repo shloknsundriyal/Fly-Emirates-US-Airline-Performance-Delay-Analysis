@@ -101,6 +101,13 @@ Developed an end-to-end Aviation Analytics solution using **SQL Server** and **P
 
 ---
 
+## 📊 Power BI Dashboard File
+
+Due to GitHub file size limitations, the Power BI dashboard is hosted on Google Drive.
+
+🔗 Dashboard Download:
+[Download PBIX File](https://drive.google.com/file/d/1plUKdmO_rHtuU36xgrE7pWWu11WCdhAl/view?usp=sharing)
+
 ## 👨‍💻 Author
 
 **Shlok Sundriyal**
